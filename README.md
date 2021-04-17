@@ -1,1 +1,3 @@
-KEKW
+Software engineering
+Psychology
+Design
